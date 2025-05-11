@@ -45,7 +45,7 @@ npm
 Cypress
 
 **Installation**
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/laxmi-pradhan/Amphora_Assessment.git
 cd your-repo
 npm install
 
@@ -56,3 +56,4 @@ Project Run- npx cypress run
 
 **Reports**
 cypress/reports/mochawesome.html
+
